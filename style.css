@@ -1,0 +1,35 @@
+div.bloc1 {
+    background-color: khaki;
+    text-align: center;
+}
+
+div.bloc2 {
+    background-color: lawngreen;
+    color: black;
+    text-align: center;
+}
+
+div.bloc3 {
+    background-color: orange;
+    color: black;
+}
+
+div.bloc4 {
+    display: inline-block;
+}
+
+div.pie {
+    background-color: orange;
+}
+div.down {
+    background-color: blue;
+    text-align: center;
+}
+span.down1 {
+    background-color: yellow;
+}
+
+
+
+
+
